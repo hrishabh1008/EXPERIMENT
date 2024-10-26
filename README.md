@@ -41,3 +41,30 @@ Links: Use [Link Text](URL) format.
 
 Images: Use ![Alt Text](image-url) format.
 ![OpenAI Logo](https://www.openai.com/logo.png)
+
+5. Code and Syntax Highlighting
+
+Inline Code: Use backticks ` around inline code.
+Here is `inline code`.
+
+Code Blocks: Use triple backticks to create multi-line code blocks, specifying the language for syntax highlighting.
+```javascript
+console.log("Hello, world!");
+
+6. Blockquotes
+
+Use > to create blockquotes, which are useful for emphasizing quotes or notes.
+> This is a blockquote.
+
+7. Tables
+
+Use pipes | and hyphens - to create tables.
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Data 1   | Data 2   |
+| Data 3   | Data 4   |
+
+
+8. Horizontal Line
+Use three dashes ---, three asterisks ***, or three underscores ___ on a new line to create a horizontal line.
+---
