@@ -49,11 +49,11 @@ Here is `inline code`.
 
 Code Blocks: Use triple backticks to create multi-line code blocks, specifying the language for syntax highlighting.
 ```javascript
-console.log("Hello, world!");
+console.log("Hello, world!");```
 
 
 ---
-
+***
 6. Blockquotes
 
 Use > to create blockquotes, which are useful for emphasizing quotes or notes.
