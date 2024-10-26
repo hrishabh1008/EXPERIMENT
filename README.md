@@ -48,8 +48,8 @@ Inline Code: Use backticks ` around inline code.`
 Here is `inline code`.
 
 Code Blocks: Use triple backticks to create multi-line code blocks, specifying the language for syntax highlighting.
-\```javascript
-console.log("Hello, world!");
+javascript
+\```console.log("Hello, world!");
 \```
 
 
