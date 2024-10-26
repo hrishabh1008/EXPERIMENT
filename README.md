@@ -44,14 +44,13 @@ Images: Use ![Alt Text](image-url) format.
 
 5. Code and Syntax Highlighting
 
-Inline Code: Use backticks ` around inline code.
+Inline Code: Use backticks ` around inline code.`
 Here is `inline code`.
 
 Code Blocks: Use triple backticks to create multi-line code blocks, specifying the language for syntax highlighting.
 javascript
-\```javascript
-console.log("Hello, world!");
-\``
+
+
 
 ---
 ***
